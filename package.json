@@ -1,0 +1,8 @@
+{
+    "name": "ngv-authentication",
+    "version": "0.0.1",
+    "description": "Various Authentication implementions",
+    "keywords": ["authentication"],
+    "author": "NGV (http://ngv.vic.gov.au/) <maksim.lin@ngv.vic.gov.au>"
+}
+
